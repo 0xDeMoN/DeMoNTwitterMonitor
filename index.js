@@ -1,5 +1,5 @@
 //CONFIGURATION
-var uName   = 'GAYUSERNAMEHERE' //For Username follow scraper
+var uName   = 'USERNAMEHERE' //For Username follow scraper
 var hashTag = '#HASHTAG' //For Hashtag scraper
 var hashArray = ['#HASH1', '#HASH2', '#HASH3', '#HASH4', '#HASH5', '#ASMANYHASHESYOUFUCKINGWANT']
 var keyWord = 'KEYWORD' //For Keyword scraper
@@ -10,10 +10,10 @@ var keyArray = ['KEYWORD', 'KEYWORD1', 'KEYWORD2']
 var colors = require('colors');
 var Twit = require('twit')
 var T = new Twit({
-    consumer_key:         'puugdRtAPwdU4kYiovqAXz7wz'
-  , consumer_secret:      'dqQG14vnfKTcNYumRQVDFeYxZyxuYXtAQx0En47HkFckr8NuGz'
-  , access_token:         '3892353202-hZ4jWjvCid58fq0LBKkPoQYaDgGr53iPqnorHDu'
-  , access_token_secret:  'qNUyrdTImeZ0sZkB8vrs6SblIrAtI11lIUIp37rFIAy4B'
+    consumer_key:         ''
+  , consumer_secret:      ''
+  , access_token:         ''
+  , access_token_secret:  ''
 })
 
 var menuHandler;
