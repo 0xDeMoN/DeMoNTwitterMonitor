@@ -1,2 +1,2 @@
-# VeNoMTwitterMonitor
+# DeMoNTwitterMonitor
 Similar to the tool LovelyHorse
